@@ -2,8 +2,17 @@
 
 <PageTitle>Tarefas</PageTitle>
 
-<h1>Tarefas </h1>
+<h1>Tarefas</h1>
 
-@code {
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone" />
+            <input @bind="todo.Title" />
+        </li>
+    }
+</ul>
 
-}
+<input placeholder="Adicione aqui uma tarefa..." @bind="newTodo" />
+<button @onclick="Add">+</button>

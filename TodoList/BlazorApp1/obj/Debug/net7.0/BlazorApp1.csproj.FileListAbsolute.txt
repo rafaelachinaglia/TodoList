@@ -826,3 +826,4 @@ C:\Users\rafae\OneDrive\Documentos\Projetos\TodoList\TodoList\BlazorApp1\obj\Deb
 C:\Users\rafae\OneDrive\Documentos\Projetos\TodoList\TodoList\BlazorApp1\obj\Debug\net7.0\refint\BlazorApp1.dll
 C:\Users\rafae\OneDrive\Documentos\Projetos\TodoList\TodoList\BlazorApp1\obj\Debug\net7.0\BlazorApp1.pdb
 C:\Users\rafae\OneDrive\Documentos\Projetos\TodoList\TodoList\BlazorApp1\obj\Debug\net7.0\ref\BlazorApp1.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\TodoList\TodoList\BlazorApp1\obj\Debug\net7.0\scopedcss\Pages\Todo.razor.rz.scp.css
