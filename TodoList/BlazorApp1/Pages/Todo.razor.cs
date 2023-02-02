@@ -15,5 +15,11 @@
             }
         }
 
+
+        private void Dell(TodoItem todoItem)
+        {
+            todos.Remove(todoItem);
+        }
+
     }
 }

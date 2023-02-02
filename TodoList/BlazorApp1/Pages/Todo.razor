@@ -10,6 +10,8 @@
         <li>
             <input type="checkbox" @bind="todo.IsDone" />
             <input @bind="todo.Title" />
+            <input type="button" @onclick="() => Dell(todo)" value="X" class="btn btn-danger btn-sm" />
+ 
         </li>
     }
 </ul>
